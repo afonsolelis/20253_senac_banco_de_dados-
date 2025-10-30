@@ -1,14 +1,12 @@
 # Avaliação
 
-Projeto para a entrega no dia 04 de dezembro
+- Projeto deve ser entregue até dia 20 de novembro (no feriado);
 
-Prova Oral do trabalho + trabalho: 5 pontos no dia 13 de novembro;
+- Prova Oral do trabalho + trabalho: 5 pontos no dia 27 de novembro;
 
-Prova teorica em sala de aula (no papel) no dia 9 de outubro: 4 pontos;
+- Prova de recuperação (40 questões optativas) no dia 4 de dezembro;
 
-Participação em sala de aula: 1 ponto;
-
-# Projeto
+# Descrição do Projeto
 
 ## Caso proposto: Modelagem de Dados de um Sistema de Gestão de Hospital Universitário
 
